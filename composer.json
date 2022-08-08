@@ -1,0 +1,17 @@
+{
+    "name": "jin.liou/project3",
+    "autoload": {
+        "psr-4": {
+            "JinLiou\\Project3\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jin",
+            "email": "liou.jin@degames.com.tw"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.4"
+    }
+}
